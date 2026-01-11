@@ -1,0 +1,4 @@
+ulimit -s unlimited
+cd /root/Build_WRF/WRF_Run/Run_WRF
+/root/anaconda3/bin/python WRF4.1.2_Final.py
+

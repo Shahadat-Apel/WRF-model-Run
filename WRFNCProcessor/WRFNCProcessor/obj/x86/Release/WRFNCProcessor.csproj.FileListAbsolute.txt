@@ -1,0 +1,9 @@
+G:\Rain_MAP\WRF\WRFNCProcessor\WRFNCProcessor\bin\Release\WRFNCProcessor.exe
+G:\Rain_MAP\WRF\WRFNCProcessor\WRFNCProcessor\bin\Release\WRFNCProcessor.pdb
+G:\Rain_MAP\WRF\WRFNCProcessor\WRFNCProcessor\obj\x86\Release\WRFNCProcessor.exe
+G:\Rain_MAP\WRF\WRFNCProcessor\WRFNCProcessor\obj\x86\Release\WRFNCProcessor.pdb
+E:\Rain_MAP\WRF\WRFNCProcessor\WRFNCProcessor\obj\x86\Release\WRFNCProcessor.exe
+E:\Rain_MAP\WRF\WRFNCProcessor\WRFNCProcessor\obj\x86\Release\WRFNCProcessor.pdb
+E:\Rain_MAP\WRF\WRFNCProcessor\WRFNCProcessor\bin\Release\WRFNCProcessor.exe
+E:\Rain_MAP\WRF\WRFNCProcessor\WRFNCProcessor\bin\Release\WRFNCProcessor.pdb
+E:\Rain_MAP\WRF\WRFNCProcessor\WRFNCProcessor\obj\x86\Release\WRFNCProcessor.csprojResolveAssemblyReference.cache
